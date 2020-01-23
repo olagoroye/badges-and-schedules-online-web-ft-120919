@@ -33,9 +33,3 @@ end
 end
 
 
-
-# f printer(attendees)
-#   resultOne = batch_badge_creator(attendees)
-#   resultOne.each do |x|
-#     puts x 
-#   end
